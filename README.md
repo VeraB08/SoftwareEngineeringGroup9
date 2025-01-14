@@ -1,4 +1,4 @@
 # SoftwareEngineering
 
-Vera Babasa, ho24168@bristol.ac.uk, VeraB08
+Vera Babasa, ho24168@bristol.ac.uk, VeraB08 \n 
 Abdul-Hakeem Lamptey, qw19275@bristol.ac.uk, ahl-hx
