@@ -1,0 +1,16 @@
+Game Ideas:
+
+1. Pac-Man: The player plays as a ghost trying to trap Pac-Man in a changing maze. Pac-Man is controlled by an AI that tries to escape. 
+Design AI for Pac-Man and implement a system for generating and modifying the maze.
+
+2. Flappy-Bird: The player is constantly chased by another bird that shoots projectiles or creates obstacles. The bird gets faster and more aggressive over time. 
+Chasing bird AI that adjusts its speed and aggression based on the performance of the player. Obstacle placement generation.
+
+3. Tetris: Instead of clearing lines, the goal is to build a stable tower. Pieces have different weights and physics, and the tower must remain balanced as it grows. 
+Implementing the physical properties of the blocks. Tower collapse logic - poorly balance towers collapse or shifts.
+
+4. Breakout: Each time the ball hits a brick, it splits into two smaller balls. The player must manage multiple balls on the screen at once while still aiming to destroy bricks. 
+Ball cloning - implement a system that splits the balls in two when it hits the bricks and ensure all balls are tracked. Collisions - ensure all balls interact correctly with bricks, paddels etc. without glitches.
+
+5. Pong/Breakout: Players defend their side (similar to normal Pong) while aiming to break through a wall of bricks behind the opponent's paddle. The first player to break through wins. 
+Uses two game mechanics (Pong and Breakout)
